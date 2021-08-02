@@ -1,6 +1,6 @@
 # vue-on-storybook
 
-> A Vue.js project
+> A Vue.js project made by webpack-simple package on storybook.
 
 ## Build Setup
 
